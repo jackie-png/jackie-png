@@ -21,7 +21,8 @@ I also have experience using these frameworks and services
 
 My most recent projects are
 1. Rise of the German Hegemony
-2. Sus Contracting
+2. Angel's Craft Corner
+3. Sus Contracting
 
 ## Rise of the German Hegemony
 This is a project based on the popular Hearts of Iron 4 mod Kaiserreich which explores a world where the Central Powers won World War I. I wrote a story based on an alternate World War II in this universe and used a website as a medium to tell this story.
@@ -30,7 +31,19 @@ The website is created with NextJS and React, styled using Tailwind CSS, and is 
 
 There are multiple articles covering the main events of this alternate World War II and its various peace treaties.
 
-Here is a link to the website ➡️ https://althistsite-2.vercel.app/
+Here is a link to the website ➡ https://althistsite-2.vercel.app/
+
+## Angel's Craft Corner
+
+Angel's Craft Corner was the second big project I was working on at Civiconnect, this website was for a crafts business that specializes in holiday themed decorations.
+
+I developed the shop page's functionalities and visual components, this included the dropdown menus in both PC and mobile view and the shop page's pagination.
+
+I also developed the individual shop item's webpages as well, this includes the colour picker, image display carousel, colour option picker, and the add to cart function that utilizes localstorage.
+
+On the backend, I created the data structure that held the information for an item for the website as well as the collections needed for the shop page.
+
+Here is a link to the Website ➡ https://main.d6v8rcrcqf6we.amplifyapp.com/
 
 ## Sus Contracting
 
@@ -44,7 +57,7 @@ I helped design the database being used to hold content for the website on Strap
 
 I also helped with testing the website using tools like Lighthouse, which told us which parts of the website needed improvement based on Performace, Accessibility, Best Practices, and SEO.
 
-Here is a link to the Website ➡️ https://suscontractinginc.com/
+Here is a link to the Website ➡ https://suscontractinginc.com/
 <!--
 **jackie-png/jackie-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
