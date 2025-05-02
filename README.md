@@ -3,6 +3,7 @@
 ## I am a third year computer science student studying at Toronto Metropolitan University (TMU)
 
 My linkedin is here ➡️ https://www.linkedin.com/in/jackie-lam-a97713284/
+My portfolio website is here(WIP) ➡️ https://jackie-lam-portfolio.vercel.app/ 
  
 Currently I am interested in Web Development with experience coding in
 - Javascript
